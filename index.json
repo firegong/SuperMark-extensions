@@ -1,0 +1,276 @@
+{
+  "schemaVersion": 1,
+  "extensions": [
+    {
+      "id": "markedit-theme-base16-eighties",
+      "name": "Base16 Eighties",
+      "description": "Base16 Eighties light and dark themes for MarkEdit.",
+      "author": "edwardcallow",
+      "homepage": "https://github.com/edwardcallow/markedit-theme-base16-eighties",
+      "colorScheme": "both",
+      "colorPatterns": [
+        "#f2f0ec,#515151,#5787b6,#875c87,#5b9c5c,#a09f93",
+        "#2d2d2d,#d3d0c8,#66cccc,#cc99cc,#99cc99,#747369"
+      ],
+      "addedDate": "2026-09-19T03:00:00Z",
+      "category": "theme",
+      "latest": {
+        "version": "1.0.0",
+        "date": "2026-09-19T03:00:00Z",
+        "url": "https://github.com/edwardcallow/markedit-theme-base16-eighties/releases/download/v1.0.0/markedit-theme-base16-eighties.js",
+        "sha256": "6e9766a2dcedafb8e4edca6a4caa8e50784ac730601399d0b42d4deb82fa9000",
+        "notes": "Initial release."
+      }
+    },
+    {
+      "id": "markedit-theme-basic",
+      "name": "Basic Theme",
+      "description": "Minimal colors with soft accents.",
+      "author": "MarkEdit-app",
+      "homepage": "https://github.com/MarkEdit-app/MarkEdit-theme-basic",
+      "addedDate": "2026-07-09T14:00:00Z",
+      "colorScheme": "both",
+      "colorPatterns": [
+        "#ffffff,#2e3440,#5e81ac,#8fbcbb,#d08770,#434c5e",
+        "#2e3235,#dddddd,#5e81ac,#8fbcbb,#6fb3d2,#808080"
+      ],
+      "category": "theme",
+      "latest": {
+        "version": "1.1.0",
+        "date": "2026-07-31T05:00:00Z",
+        "url": "https://github.com/MarkEdit-app/MarkEdit-theme-basic/releases/download/v1.1.0/markedit-theme-basic.js",
+        "sha256": "fcc16b6c5aab8cbb82934ea023fa064d409e7950fbd9d24c3086f14d21836c53",
+        "notes": "Upgrade markedit-theming to latest."
+      }
+    },
+    {
+      "id": "markedit-theme-catppuccin",
+      "name": "Catppuccin Theme",
+      "description": "Soothing pastel colors from the Catppuccin community.",
+      "author": "MarkEdit-app",
+      "homepage": "https://github.com/MarkEdit-app/MarkEdit-theme-catppuccin",
+      "addedDate": "2026-07-09T14:00:00Z",
+      "featured": true,
+      "colorScheme": "both",
+      "colorPatterns": [
+        "#eff1f5,#4c4f69,#1e66f5,#8839ef,#40a02b,#7c7f93",
+        "#1e1e2e,#cdd6f4,#89b4fa,#cba6f7,#a6e3a1,#9399b2"
+      ],
+      "category": "theme",
+      "latest": {
+        "version": "1.1.0",
+        "date": "2026-07-31T05:00:00Z",
+        "url": "https://github.com/MarkEdit-app/MarkEdit-theme-catppuccin/releases/download/v1.1.0/markedit-theme-catppuccin.js",
+        "sha256": "684d828ca10f74a500a1ad1b8b500331ae63d4a0e4a0d4059108bdb2655f5630",
+        "notes": "Upgrade markedit-theming to latest."
+      }
+    },
+    {
+      "id": "markedit-theme-duotone",
+      "name": "DuoTone Theme",
+      "description": "Only two hues, with emphasis on what matters.",
+      "author": "MarkEdit-app",
+      "homepage": "https://github.com/MarkEdit-app/MarkEdit-theme-duotone",
+      "addedDate": "2026-07-09T14:00:00Z",
+      "colorScheme": "both",
+      "colorPatterns": [
+        "#faf8f5,#b29762,#2d2006,#063289,#1659df,#b6ad9a",
+        "#2a2734,#6c6783,#eeebff,#ffcc99,#ffb870,#cdcbd3"
+      ],
+      "category": "theme",
+      "latest": {
+        "version": "1.1.0",
+        "date": "2026-07-31T05:00:00Z",
+        "url": "https://github.com/MarkEdit-app/MarkEdit-theme-duotone/releases/download/v1.1.0/markedit-theme-duotone.js",
+        "sha256": "74c777e5873edfee6d2e526289d1ce0876078d8fb943e8420fc43357f134d9e3",
+        "notes": "Upgrade markedit-theming to latest."
+      }
+    },
+    {
+      "id": "markedit-theme-gruvbox",
+      "name": "Gruvbox Theme",
+      "description": "A retro groove color scheme, warm and high-contrast.",
+      "author": "MarkEdit-app",
+      "homepage": "https://github.com/MarkEdit-app/MarkEdit-theme-gruvbox",
+      "addedDate": "2026-07-09T14:00:00Z",
+      "featured": true,
+      "colorScheme": "both",
+      "colorPatterns": [
+        "#fbf1c7,#3c3836,#79740e,#9d0006,#076678,#928374",
+        "#282828,#ebdbb2,#b8bb26,#fb4934,#076678,#928374"
+      ],
+      "category": "theme",
+      "latest": {
+        "version": "1.1.0",
+        "date": "2026-07-31T05:00:00Z",
+        "url": "https://github.com/MarkEdit-app/MarkEdit-theme-gruvbox/releases/download/v1.1.0/markedit-theme-gruvbox.js",
+        "sha256": "a4ec67d8828caa049b9a9ea6016d8307a1c81ade0ad82eb3dbb16ccb15e2769a",
+        "notes": "Upgrade markedit-theming to latest."
+      }
+    },
+    {
+      "id": "markedit-theme-noctis-lilac",
+      "name": "Noctis Lilac Theme",
+      "description": "A light theme with a lilac background, from the Noctis family.",
+      "author": "MarkEdit-app",
+      "homepage": "https://github.com/MarkEdit-app/MarkEdit-theme-noctis-lilac",
+      "addedDate": "2026-07-09T14:00:00Z",
+      "colorScheme": "light",
+      "colorPatterns": [
+        "#f2f1f8,#0c006b,#fa8900,#ff5792,#00b368,#9995b7"
+      ],
+      "category": "theme",
+      "latest": {
+        "version": "1.1.0",
+        "date": "2026-07-31T05:00:00Z",
+        "url": "https://github.com/MarkEdit-app/MarkEdit-theme-noctis-lilac/releases/download/v1.1.0/markedit-theme-noctis-lilac.js",
+        "sha256": "684fe5830f715820f125dc06f851cde2ef7eacb58c1de3cd5e0bd5030a9d576f",
+        "notes": "Upgrade markedit-theming to latest."
+      }
+    },
+    {
+      "id": "markedit-theme-nord",
+      "name": "Nord Theme",
+      "description": "An arctic, north-bluish color palette.",
+      "author": "MarkEdit-app",
+      "homepage": "https://github.com/MarkEdit-app/MarkEdit-theme-nord",
+      "addedDate": "2026-07-09T14:00:00Z",
+      "colorScheme": "dark",
+      "colorPatterns": [
+        "#2e3440,#d8dee9,#5e81ac,#8fbcbb,#a3be8c,#4c566a"
+      ],
+      "category": "theme",
+      "latest": {
+        "version": "1.1.0",
+        "date": "2026-07-31T05:00:00Z",
+        "url": "https://github.com/MarkEdit-app/MarkEdit-theme-nord/releases/download/v1.1.0/markedit-theme-nord.js",
+        "sha256": "6030e533a0bcce69b49c4862d38dfc93e3e58d5f10c52ebb92f0916997543f52",
+        "notes": "Upgrade markedit-theming to latest."
+      }
+    },
+    {
+      "id": "markedit-theme-nushu",
+      "name": "Nushu Theme",
+      "description": "Warm, low-contrast light and dark themes built on GitHub's Primer colors.",
+      "author": "wheredoesyourmindgo",
+      "homepage": "https://github.com/wheredoesyourmindgo/markedit-theme-nushu",
+      "colorScheme": "both",
+      "colorPatterns": [
+        "#f8f6f1,#2b2822,#0969da,#99286e,#0a3069,#1a7f37",
+        "#25211d,#d7cfc7,#2f81f7,#db61a2,#a5d6ff,#2ea043"
+      ],
+      "addedDate": "2026-10-22T02:00:00Z",
+      "category": "theme",
+      "latest": {
+        "version": "1.5.0",
+        "date": "2026-10-28T04:00:00Z",
+        "url": "https://github.com/wheredoesyourmindgo/markedit-theme-nushu/releases/download/v1.5.0/markedit-theme-nushu.js",
+        "sha256": "3a4df2e922e65303e60f55d4d8838522bacd8057f1d456987c12fdc4fee49093",
+        "notes": "Style the MarkEdit Preview pane with Nushu colors, and match Nushu for VS Code's shell, CSS, SQL, and Markdown colors."
+      }
+    },
+    {
+      "id": "markedit-theme-one-dark",
+      "name": "One Dark Theme",
+      "description": "The iconic dark theme from Atom.",
+      "author": "MarkEdit-app",
+      "homepage": "https://github.com/MarkEdit-app/MarkEdit-theme-one-dark",
+      "addedDate": "2026-07-09T14:00:00Z",
+      "colorScheme": "dark",
+      "colorPatterns": [
+        "#282c34,#abb2bf,#e06c75,#c678dd,#98c379,#7d8799"
+      ],
+      "category": "theme",
+      "latest": {
+        "version": "1.1.0",
+        "date": "2026-07-31T05:00:00Z",
+        "url": "https://github.com/MarkEdit-app/MarkEdit-theme-one-dark/releases/download/v1.1.0/markedit-theme-one-dark.js",
+        "sha256": "54dcad1c6a1594592efeaeb6c2a0e95eaf09a3333238de911a88972e0279e6bf",
+        "notes": "Upgrade markedit-theming to latest."
+      }
+    },
+    {
+      "id": "markedit-theme-quietlight",
+      "name": "Quiet Light Theme",
+      "description": "Light and low-contrast, easy on the eyes.",
+      "author": "MarkEdit-app",
+      "homepage": "https://github.com/MarkEdit-app/MarkEdit-theme-quietlight",
+      "addedDate": "2026-07-09T14:00:00Z",
+      "colorScheme": "light",
+      "colorPatterns": [
+        "#f5f5f5,#333333,#aa3731,#4b69c6,#448c27,#aaaaaa"
+      ],
+      "category": "theme",
+      "latest": {
+        "version": "1.1.0",
+        "date": "2026-07-31T05:00:00Z",
+        "url": "https://github.com/MarkEdit-app/MarkEdit-theme-quietlight/releases/download/v1.1.0/markedit-theme-quietlight.js",
+        "sha256": "2ce3a603f31f268945e71493bbb1a65abe7783d59c3a0a3d994a538919b0633e",
+        "notes": "Upgrade markedit-theming to latest."
+      }
+    },
+    {
+      "id": "markedit-theme-red-graphite",
+      "name": "Red Graphite",
+      "description": "A light MarkEdit theme with rose accents and graphite text.",
+      "author": "unsnruu",
+      "homepage": "https://github.com/unsnruu/markedit-red-graphite",
+      "colorScheme": "light",
+      "colorPatterns": [
+        "#fcfcfc,#222222,#e06e73,#a74e5c,#687647,#858585"
+      ],
+      "addedDate": "2026-10-31T05:00:00Z",
+      "category": "theme",
+      "latest": {
+        "version": "1.0.3",
+        "date": "2026-11-09T10:00:00Z",
+        "url": "https://github.com/unsnruu/markedit-red-graphite/releases/download/v1.0.3/markedit-theme-red-graphite.js",
+        "sha256": "b0dc983d5ea88d6d1c2bd08028fbe7e7eed2f5ebe9c9a72e5052e03c465c47bb",
+        "minAppVersion": "1.37.0",
+        "notes": "Improve divider contrast and align spacing between Mixed and Preview modes."
+      }
+    },
+    {
+      "id": "markedit-theme-tokyo-night",
+      "name": "Tokyo Night Theme",
+      "description": "Celebrates the lights of downtown Tokyo at night.",
+      "author": "MarkEdit-app",
+      "homepage": "https://github.com/MarkEdit-app/MarkEdit-theme-tokyo-night",
+      "addedDate": "2026-07-09T14:00:00Z",
+      "colorScheme": "both",
+      "colorPatterns": [
+        "#e1e2e7,#3760bf,#b15c00,#007197,#587539,#848cb5",
+        "#1a1b26,#787c99,#89ddff,#bb9af7,#9ece6a,#444b6a"
+      ],
+      "category": "theme",
+      "latest": {
+        "version": "1.1.0",
+        "date": "2026-07-31T05:00:00Z",
+        "url": "https://github.com/MarkEdit-app/MarkEdit-theme-tokyo-night/releases/download/v1.1.0/markedit-theme-tokyo-night.js",
+        "sha256": "329ca79666cc6dddf5ef7c9def49919758d4f280c6bb968033dd105c3a5220bc",
+        "notes": "Upgrade markedit-theming to latest."
+      }
+    },
+    {
+      "id": "markedit-theme-vscode",
+      "name": "VS Code Theme",
+      "description": "Default light and dark colors from Visual Studio Code.",
+      "author": "MarkEdit-app",
+      "homepage": "https://github.com/MarkEdit-app/MarkEdit-theme-vscode",
+      "addedDate": "2026-07-09T14:00:00Z",
+      "colorScheme": "both",
+      "colorPatterns": [
+        "#ffffff,#383a42,#0070c1,#0000ff,#a31515,#008000",
+        "#1e1e1e,#d4d4d4,#9cdcfe,#569cd6,#ce9178,#6a9955"
+      ],
+      "category": "theme",
+      "latest": {
+        "version": "1.2.0",
+        "date": "2026-07-29T12:00:00Z",
+        "url": "https://github.com/MarkEdit-app/MarkEdit-theme-vscode/releases/download/v1.2.0/markedit-theme-vscode.js",
+        "sha256": "f563fa0dfcf010bc90253271fda5bf3040ccf28063ebe53d34d341a51ce78c69",
+        "notes": "Upgrade dependency and fix selection color."
+      }
+    }
+  ]
+}
