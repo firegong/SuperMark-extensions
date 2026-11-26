@@ -271,6 +271,23 @@
         "sha256": "f563fa0dfcf010bc90253271fda5bf3040ccf28063ebe53d34d341a51ce78c69",
         "notes": "Upgrade dependency and fix selection color."
       }
+    },
+    {
+      "id": "supermark-plain-parser",
+      "name": "SuperMark Plain Parser",
+      "description": "Example extension parser (proof of concept).",
+      "author": "firegong",
+      "homepage": "https://github.com/firegong/SuperMark-Plain-Parser",
+      "addedDate": "2026-11-26T00:00:00Z",
+      "featured": false,
+      "category": "extension",
+      "latest": {
+        "version": "1.0.0",
+        "date": "2026-11-26T00:00:00Z",
+        "url": "https://raw.githubusercontent.com/firegong/SuperMark-Plain-Parser/main/supermark-plain-parser.js",
+        "sha256": "eb12a17b5b3164e5a65b240bec4f47d4f12eba041c1a2ed3e6b5f89f1afda2ff",
+        "notes": "Proof of concept for generic parser registration."
+      }
     }
   ]
 }
